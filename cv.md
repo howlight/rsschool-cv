@@ -26,3 +26,10 @@ let result = multiply(4, 5)
 
 console.log(result)
 ```
+### Courses
+- JavaScript Manual on learnjavascript.ru
+- [HTML Academy](https://htmlacademy.ru)
+
+### Languages
+- Russian - Native\
+- English - A2
