@@ -3,8 +3,8 @@
 ## Aleksey Howlight
 ---------
 ### Contact information:
-**Location:** Russia, Kazan
-**Github:** [Howlight]​(https://github.com/howlight)
-**Telegram:** @howlight
-**Discord:** Howlight
+**Location:** Russia, Kazan\
+**Github:** [Howlight]​(https://github.com/howlight)\
+**Telegram:** @howlight\
+**Discord:** Howlight\
 ---------
