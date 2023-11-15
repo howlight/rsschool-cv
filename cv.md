@@ -31,5 +31,5 @@ console.log(result)
 - [HTML Academy](https://htmlacademy.ru)
 
 ### Languages
-- Russian - Native\
+- Russian - Native
 - English - A2
