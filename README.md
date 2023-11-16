@@ -1,1 +1,1 @@
-https://howlight.github.io/rsschool-cv/cv
+https://howlight.github.io/rsschool-cv
